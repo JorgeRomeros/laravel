@@ -5,7 +5,7 @@
         "dev": "vite",
         "build": "vite build",
         "predeploy": "vite build",
-        "deploy": "gh-pages -d public"
+        "deploy": "gh-pages -d dist"
     },
     "devDependencies": {
         "@alpinejs/focus": "^3.10.5",
